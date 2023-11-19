@@ -4,7 +4,7 @@
 
 - :woman_student:A 2<sup>nd</sup> year CS student at York University
 - :round_pushpin: Based in Toronto, CA
-- :star2: Front-end Develepor Enthusiast
+- :star2: Front-end Development Enthusiast
 - :rocket: How to reach me **ctedyanto@gmail.com**
 - :zap: Checkout my personal website portfolio at [chelseatedyanto.github.io](chelseatedyanto.github.io)
 

@@ -6,7 +6,8 @@
 - :round_pushpin: Based in Toronto, CA
 - :star2: Front-end Development Enthusiast
 - :rocket: How to reach me **ctedyanto@gmail.com**
-- :zap: Checkout my personal website portfolio at [chelseatedyanto.github.io](chelseatedyanto.github.io)
+- :zap: Checkout my personal website portfolio at <a href="chelseatedyanto.github.io" target="blank">chelseatedyanto.github.io</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

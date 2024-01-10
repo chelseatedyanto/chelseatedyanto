@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B2CC&background=97FFD400&random=false&width=471&lines=Hello%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F!+I'm+Chelsea.;Welcome+to+my+github+page.)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" border-radius="10px" src="https://camo.githubusercontent.com/49aceca824c1e83de5d638d5a9a17a58e86c3f5476a80184e6312ef6d85a2101/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f396362313266353164666662616161362d6368617261637465722d747970696e672d62792d76696e63656e742d6d6f6b75656e6b6f2d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" style="border-radius: 10;" src="https://camo.githubusercontent.com/49aceca824c1e83de5d638d5a9a17a58e86c3f5476a80184e6312ef6d85a2101/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f396362313266353164666662616161362d6368617261637465722d747970696e672d62792d76696e63656e742d6d6f6b75656e6b6f2d6472696262626c652e676966">
 
 - :woman_student: A 2<sup>nd</sup> year CS student at York University
 - :round_pushpin: Based in Toronto, CA
